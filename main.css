@@ -1,0 +1,13 @@
+#right { float:right; }
+
+h1{
+    float:center;
+    text-align:center;
+    font-size:50px;
+
+}
+
+#add { background-color: white;}
+#left { background-color: rgb(128,128,128); font-size:30px;} 
+
+#yo{ font-family:white;}
